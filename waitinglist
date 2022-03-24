@@ -1,7 +1,49 @@
 # Waiting list
 
+
 ## Topics
 
 
-https://doi.org/10.1038/s41588-021-00968-y Mendelian randomization analyses 
-support causal relationships between blood metabolites and the gut microbiome，对人体肠道微生物组进行了孟德尔随机分析（MR, Mendelian Randomization）
+##R packages
+OneSampleMR : 提供单样本孟德尔随机化和工具变量分析功能，包括条件F-统计量、乘法结构均值模型的实现.
+
+
+#Mendelian Randomization,孟德尔随机分析
+
+https://doi.org/10.1038/s41588-021-00968-y 
+对人体肠道微生物组进行了孟德尔随机分析（MR, Mendelian Randomization）
+Mendelian randomization analyses support causal relationships between blood metabolites and the gut microbiome，
+https://mp.weixin.qq.com/s/24uM7UkyRbMhI4Do1TodJg
+
+
+https://doi.org/10.1038/s41588-020-0631-4
+Nat Genetics | 贺信团队开发新的孟德尔随机化分析方法——CAUSE
+Mendelian randomization accounting for correlated and uncorrelated pleiotropic effects using genome-wide summary statistics
+https://mp.weixin.qq.com/s/Ii_T5xqcUwvYAOblPOek0Q
+
+
+https://www.nature.com/articles/d41586-019-03754-3
+孟德尔随机化分析法提供了一种从相关性中分辨因果关系的简单方法。但科学家是否在过度使用它？
+The gene-based hack that is revolutionizing epidemiology
+https://mp.weixin.qq.com/s/iDmSDr9Z7SH0wkv-Z5uieQ
+
+
+https://doi.org/10.1016/j.tim.2021.03.015
+华中农业大学：发展微生物组医学，如何进行因果推理？（综述）
+Causal Inference in Microbiome Medicine: Principles and Applications
+① 用实验方法来推理菌群-疾病因果关系存在一定局限性，但可通过计算方法来建立；② 孟德尔随机化分析可有效揭示菌群群与疾病的直接因果关系，这种因果关系可通过干预主义框架进行评估；③ 中介分析和结构方程模型通过分析各种因素的中介作用，可以揭示菌群与疾病的直接和间接的因果关系；④ 研究菌群与疾病的因果关系和菌群相关基因变异，有助于实施个性化饮食干预；⑤ 了解饮食、菌群、宿主和疾病之间的因果关系对未来的微生物组医学至关重要。
+
+
+http://doi.org/10.1002/advs.202104965
+AS：西湖郑钜圣/鞠峰-人类肠道中特定耐药基因累积可能导致糖尿病风险上升
+Human gut antibiotic resistome and progression of diabetes
+基于遗传学和孟德尔随机化的因果关联评价发现肠道抗生素抗性基因的丰富度（多样性指标之一）、Multidrug_emrE，以及MLS_ermX抗性基因与2型糖尿病可能具有因果关联。
+
+
+https://arxiv.org/abs/2008.11997
+Pleiotropy robust methods for multivariable Mendelian randomization
+多变量孟德尔随机化的多效性鲁棒方法
+
+https://mp.weixin.qq.com/s/j7jYgvZIJiv0d9HNHDh2gg
+有相关性就有因果关系吗，教你玩转孟德尔随机化分析
+
